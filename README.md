@@ -34,38 +34,6 @@ The API restricts project visibility based on the client selected and provides d
 - Django 3.x or higher
 - Django REST Framework
 
-### Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Apply migrations:**
-
-    ```bash
-    python manage.py migrate
-    ```
-
-4. **Create a superuser:**
-
-    ```bash
-    python manage.py createsuperuser
-    ```
-
-5. **Run the server:**
-
-    ```bash
-    python manage.py runserver
-    ```
 
 ### Models
 
